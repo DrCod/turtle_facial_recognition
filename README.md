@@ -3,9 +3,9 @@ The aim of this competition is to build a machine learning model to identify ind
 
 # Links to Datasets
 
-# [Training data](https://storage.googleapis.com/dm-turtle-recall/train.csv)
-# [Extra images data](https://storage.googleapis.com/dm-turtle-recall/extra_images.csv)
-# [Test data](https://storage.googleapis.com/dm-turtle-recall/test.csv)
-# [Sample submission file](https://storage.googleapis.com/dm-turtle-recall/sample_submission.csv)
-# [Images](https://storage.googleapis.com/dm-turtle-recall/images.tar)
+## [Training data](https://storage.googleapis.com/dm-turtle-recall/train.csv)
+## [Extra images data](https://storage.googleapis.com/dm-turtle-recall/extra_images.csv)
+## [Test data](https://storage.googleapis.com/dm-turtle-recall/test.csv)
+## [Sample submission file](https://storage.googleapis.com/dm-turtle-recall/sample_submission.csv)
+## [Images](https://storage.googleapis.com/dm-turtle-recall/images.tar)
 
